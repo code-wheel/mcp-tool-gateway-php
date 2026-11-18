@@ -10,8 +10,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 - `mcp/sdk` was pinned to exactly `0.6.0`, which locked consumers inside
   the range of CVE-2026-53965 (`>=0.5.0,<0.7.1`). The constraint now allows
-  0.2.2 through 0.6 again, plus 0.7.1, 0.8 and 0.9. The test suite passes on
-  0.6.0, 0.7.1, 0.8.1 and 0.9.0.
+  0.2.2 through 0.6 again, plus 0.7.1, 0.8, 0.9 and 0.10. The test suite
+  passes on 0.6.0, 0.7.1, 0.8.1, 0.9.0 and 0.10.0.
 
 ## [1.2.0] - 2026-06-12
 
